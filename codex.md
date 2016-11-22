@@ -76,6 +76,8 @@ Personal mental and physical abilities, constraints, and biases.
 - We are the sum of our biases. 
 - To name a few: We tend to favor the beautiful, the reaffirming, and the expected. We tend to attribute too much credit to success (and under-credit luck).
 - We will die.
+- Biases are inevitable. It is our applications of these biases that determine whether we are racist, bigoted, or 
+- Empathy...
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
@@ -95,25 +97,14 @@ My take on the spiritual and supernatural.
 #### 2C Perceptions: Explanatory
 Science, politics, and the universe.
 
-- We probably live in a simulation (see digital realism).
-- Other dimensions and universes exist.
-- Micro and macro evolution happens.
-- Something like the Big Bang happened, and will probably happen again.
-- Something existed before the Big Bang (outside of time and space as we know them).
-- Nothing in our universe can travel faster than light.
 - The human brain (in its current state of evolution) can't comprehend the universe.
 - Non-carbon-based life forms exist.
-- Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
-- Aliens will probably discover our own robots before they discover us.
-- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
+- Aliens exist. 
+- Global warming is real.
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
 - As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
 - Privacy is just a side effect of people not being truly connected.
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
-- Most questions have no answer (but asking them anyway is often entertaining).
-- Logic is a helpful tool, but has flaws and can't be relied on entirely.
-- Acupuncture works, somehow.
 - Vaccinations are good for babies and society.
 
 ### Type 3: Opinions
@@ -148,36 +139,55 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 #### 3B: Opinions: Society
 How I believe society should be structured.
 
-- Gay marriage should be legal everywhere.
+Environment
+- Fossil fuel
+- Fracking
+- Nuclear power
+- Renewable energy
+
+Health
+- Health care should be available and affordable to everyone who needs it. This includes birth control.
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
-- Health care should be available and affordable to everyone who needs it.
-- The death penalty should be used in extreme and certain cases to protect the public.
+- Vaccinations should be required. 
+
+Crime & Justice
+- Gun control...
 - Prisons should be about protecting the public, not about punishment.
-- Marijuana should be legal to grow, sell, buy, and carry.
-- Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
-- It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
-- Guaranteed basic income should be a thing available to everyone.
-- Free college education should be available to everyone who wants it.
-- Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
+- Capital punishment should...
+- Recreational drugs (cigarettes, alcohol, marijuana) should be legal everywhere but taxed according to health impact.
+
+Civil rights
+- Gay marriage should be legal everywhere.
+- Immigration...
+- Affirmative action...
+- Freedom of speech and religion
+
+Government
+- Government's role should...
+- Democracy
+- The electoral college should be abolished.
+- Voting rights should be expanded...
+- Taxes should be used to fund...
+- Foreign policy
+
+Education
+- College education should be free and available to everyone who wants it.
+- Education should promote empathy...
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
-#### 4: Predictions: By 2016
-- Hillary will win the election
-- Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but hoping to go double or nothing for 2025. Rick?)
-
+#### 4: Predictions: By 2017
+- TBD
 #### 4. Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
 - Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
 #### 4: Predictions: By 2030
-- We'll have a President that admits to being atheist or agnostic by 2025.
 - Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
 - Safe, genetically modified foods will become the norm.
-- Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
 #### 4: Predictions: By 2050
 - Computers will be building better computers than humans.
@@ -198,7 +208,7 @@ How I think things will be in the future, based on the approximate year I think 
 ## Glossary
  
 ### What is this?
-This document was started in November 2016 in response to teh outcome of the US presidential election. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. 
+This document was started in November 2016 in response to the outcome of the US presidential election. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. 
 
 ### Codex vitae
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
