@@ -111,7 +111,7 @@ Science, politics, and the universe.
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
 #### 3A: Opinions: Shoulds
-How I believe I should approach life. These are all opt-in and apply only to myself.
+How I believe I should approach life. These are all opt-in and apply only to myself. This can be considered as my living document for ongoing resolutions.
 
 - I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
 - I should create a new monthly report on the first of every month.
