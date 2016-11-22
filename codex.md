@@ -78,6 +78,7 @@ Personal mental and physical abilities, constraints, and biases.
 - We will die.
 - Biases are inevitable. It is our applications of these biases that determine whether we are racist, bigoted, or 
 - Empathy...
+- Money...
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
@@ -86,12 +87,8 @@ My take on the spiritual and supernatural.
 - My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
 - Frequently remembering we will die increases the quality of our life.
 - Life is already lost. The only honest way to approach it is from a perspective of gratitude.
-- Souls don't exist as separate from the physical body.
-- The gods of organized religion don't exist.
 - Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
-- Astrology is (fun) entertainment, like the Myers Briggs test.
 - Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
-- There is no heaven or hell.
 - We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 
 #### 2C Perceptions: Explanatory
@@ -106,6 +103,9 @@ Science, politics, and the universe.
 - Privacy is just a side effect of people not being truly connected.
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
 - Vaccinations are good for babies and society.
+- History is governed by cycles of progress and regression, but ultimately the world moves forward.
+- Gender equality starts with education
+- Democracy
 
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
@@ -117,11 +117,10 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should create a new monthly report on the first of every month.
 - I should create a new yearly report every year on my birthday.
 - I should strive to know what I really believe, and to make sure my beliefs work well together.
-- I should not dilly-dally.
-- I should be my word.
-- I should have good intentions.
 - I should admit to being the maker of my own meaning.
-- I should not feel sorry for myself and avoid competitive suffering.
+- I should become more open-minded over time.
+- I should have good intentions.
+- I should not feel sorry for myself.
 - I should have a vision that I'm striving for.
 - I should rally others with my vision.
 - I should be the change I want to see.
@@ -151,59 +150,67 @@ Health
 - Assisted suicide should be legal everywhere.
 - Vaccinations should be required. 
 
+Civil rights
+- Gay marriage should be legal everywhere.
+- Womens rights
+- Immigrant rights
+- Affirmative action...
+- Freedom of speech and religion
+
+Education
+- College education should be free and available to everyone who wants it.
+- Education should promote empathy...
+
 Crime & Justice
 - Gun control...
 - Prisons should be about protecting the public, not about punishment.
 - Capital punishment should...
 - Recreational drugs (cigarettes, alcohol, marijuana) should be legal everywhere but taxed according to health impact.
 
-Civil rights
-- Gay marriage should be legal everywhere.
-- Immigration...
-- Affirmative action...
-- Freedom of speech and religion
-
-Government
+Domestic Policy
 - Government's role should...
-- Democracy
 - The electoral college should be abolished.
 - Voting rights should be expanded...
 - Taxes should be used to fund...
-- Foreign policy
+- Economy...
 
-Education
-- College education should be free and available to everyone who wants it.
-- Education should promote empathy...
+Foreign policy
+- War
+- USA's responsibility
+
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
+- Alternative protein sources
+- Water constraints
+- Universal basic income
+- Cities
+- Virtual reality
+- Transportation
+- Space travel
+- Disease
+- Computers
+- Global population
+
 #### 4: Predictions: By 2017
 - TBD
+
 #### 4. Predictions: By 2025
-- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
-- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
-- Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
+- TBD
 
 #### 4: Predictions: By 2030
-- Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
-- Safe, genetically modified foods will become the norm.
+- TBD
 
 #### 4: Predictions: By 2050
-- Computers will be building better computers than humans.
-- Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
-- People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
-- Solar will overcome gas and oil in usage.
+- TBD
 
 #### 4: Predictions: By 2100
-- There will be 10 billion people on the planet at once.
-- 80% of people will live in cities and new mega-cities.
-- Physical travel will be completely unnecessary due to virtual reality technology.
-- The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
-- Coral reefs and the ocean ecosystems are going to break with unknown consequences.
+- TBD
 
 #### 4: Predictions: By 2200
-- Humans, computers, and Earth will evolve into at least one super organism or networked brain.
+- TBD
+
 
 ## Glossary
  
@@ -226,15 +233,19 @@ Writing I've loved and come back to a bunch of times.
 ### Books 
 Each of these books has changed how I see the world.
 
-TBD
+* TBD
 
 ### My writing
 Stuff that I've written that means something to me.
 
-TBD
+* TBD
+
 
 ## Changelog
-[History of changes to this document](https://github.com/debrakao/codex/commits/master/Codex.md) &middot; [Monthly reports](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f)
+[History of changes to this document](https://github.com/debrakao/codex/commits/master/Codex.md)
+
+### Monthly reports
+TBD
 
 ### Yearly reports
 TBD
